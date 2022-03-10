@@ -1,6 +1,9 @@
 # [Statistics](Statistics.md)
 - [Libraries](Libraries.md)
 
+## Data
+- [pandas](Data/pandas.md)
+
 ## [Probability Theory](Probability/README.md)
 - [Bayes' Theorem](Probability/Bayes'%20Theorem.md)
 
