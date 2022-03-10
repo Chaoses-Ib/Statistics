@@ -32,8 +32,8 @@ pandas is a fast, powerful, flexible and easy to use open source data analysis a
 [DataFrame --- pandas 1.4.1 documentation](https://pandas.pydata.org/docs/reference/frame.html)
 - Indexing, iteration
 
-  ![](images/pandas/df-index.png)  
-  ![](images/pandas/df-index2.png)
+  ![](images/README/df-index.png)  
+  ![](images/README/df-index2.png)
 
   `Series[]` 选取列，或通过 bool 数组选取行  
   `Series.loc[]` 选取行，或通过 bool 数组选取列，或同时选取行列
@@ -52,13 +52,13 @@ pandas is a fast, powerful, flexible and easy to use open source data analysis a
 
 - Binary operator functions
 
-  ![](images/pandas/df-binary.png)
+  ![](images/README/df-binary.png)
 
 - Computations / descriptive stats
 
-  ![](images/pandas/df-comp.png)
+  ![](images/README/df-comp.png)
 
-  ![](images/pandas/df-comp2.png)
+  ![](images/README/df-comp2.png)
 
 - Missing data handling
   - [replace()](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.replace.html#pandas.DataFrame.replace)  
@@ -77,4 +77,4 @@ pandas is a fast, powerful, flexible and easy to use open source data analysis a
 ## Index objects
 [Index objects --- pandas 1.4.1 documentation](https://pandas.pydata.org/docs/reference/indexing.html)
 
-![](images/pandas/index.png)
+![](images/README/index.png)

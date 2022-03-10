@@ -2,7 +2,7 @@
 - [Libraries](Libraries.md)
 
 ## Data
-- [pandas](Data/pandas.md)
+- [pandas](Data/pandas/README.md)
 
 ## [Probability Theory](Probability/README.md)
 - [Bayes' Theorem](Probability/Bayes'%20Theorem.md)
