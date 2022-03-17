@@ -40,6 +40,11 @@ pandas is a fast, powerful, flexible and easy to use open source data analysis a
   - `obj[obj > 0]` 的实现是先通过 `[obj > 0]` 生成 bool Series list，再应用到 `obj` 上
   - slice 包括 end-point
 
+  - 用 `[]` 选取多列是 `DataFrame`，选取一列是 `Series`，那么如何选取一列为 `DataFrame`？  
+    `df[[col]]`
+  - 如何输出某列中的所有值？  
+    `.values`
+
 - Reindexing / selection / label manipulation
   - [reindex()](https://pandas.pydata.org/docs/reference/api/pandas.Series.reindex.html)  
     Conform Series to new index with optional filling logic.  
@@ -54,3 +59,22 @@ pandas is a fast, powerful, flexible and easy to use open source data analysis a
   ![](images/pandas/df-comp.png)
 
   ![](images/pandas/df-comp2.png)
+
+- Missing data handling
+  - [replace()](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.replace.html#pandas.DataFrame.replace)  
+    `df.replace(0, np.nan, inplace=True)  # 0 -> np.nan`
+  - isna() / isnull()  
+    notna() / notnull()
+
+- Conversion
+  - [astype()](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.astype.html)
+  - [`pandas.to_numeric()`](https://pandas.pydata.org/docs/reference/api/pandas.to_numeric.html)
+
+- Combining / comparing / joining / merging
+  - [append()](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.append.html#pandas.DataFrame.append)  (Deprecated)  
+    注意，append 不会修改原 DataFrame，而是会返回新 DataFrame，与 Python 标准库行为不一致。
+
+## Index objects
+[Index objects --- pandas 1.4.1 documentation](https://pandas.pydata.org/docs/reference/indexing.html)
+
+![](images/pandas/index.png)
