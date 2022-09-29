@@ -9,6 +9,9 @@ Multivariate statistics is a subdivision of statistics encompassing the simultan
 ## Information sources
 Books:
 - Applied Multivariate Statistical Analysis
+- Data Mining and Machine Learning
+- Introduction to Data Mining
+- Mining of Massive Datasets
 
 [^wiki]: [Multivariate statistics - Wikipedia](https://en.wikipedia.org/wiki/Multivariate_statistics)
 [^applied]: *Applied Multivariate Statistical Analysis*
