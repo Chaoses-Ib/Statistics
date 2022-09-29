@@ -1,4 +1,6 @@
 # Statistics
+- [Libraries](Libraries.md)
+
 ## Descriptive Statistics
 - Dispersion
   - [Variance](Descriptive/Dispersion/Variance.md)
