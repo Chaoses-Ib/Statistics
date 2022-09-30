@@ -9,8 +9,27 @@ repeat
   Recompute the centroid of each cluster.
 until Centroids do not change
 ```
-Space complexity: `O((m+K)n)`, where $m$ is the number of points and $n$ is the number of attributes.
+Space complexity: `O((m+K)n)`, where $m$ is the number of points and $n$ is the number of attributes.  
 Time complexity: $O(I\times K\times m\times n)$, where $I$ is the number of iterations required for convergence, which is usually small.
+
+[Python implementation](K-means.ipynb):
+```python
+def kmeans_cluster(df, k, max_iter=100):
+    centroids = df.sample(k)
+    for _ in range(max_iter):
+        # 将每个点分配到距离最近的 centroid 所代表的 cluster
+        distances = sk.metrics.DistanceMetric.get_metric('euclidean').pairwise(df, centroids)
+        clusters = np.argmin(distances, axis=1)
+
+        # 计算新的 centroids
+        new_centroids = df.groupby(clusters).mean()
+
+        # 如果 centroids 未发生改变，停止迭代，否则继续迭代
+        if new_centroids.equals(centroids):
+            break
+        centroids = new_centroids
+    return clusters
+```
 
 Proximity Measures | Centroid | Objective Function
 --- | --- | ---
@@ -20,14 +39,16 @@ cosine | mean | Maximize sum of the cosine similarity of an object to its cluste
 Bregman divergence | mean | Minimize sum of the Bregman divergence of an object to its cluster centroid
 
 ### Choosing Initial Centroids
-- Randomly
+- Randomly  
   Often produce poor clusters.
 - Randomly & multiple runs
-- From hierarachical clustering
+- From hierarachical clustering  
   This approach often works well, but is practical only if the sample is relatively small and $K$ is relatively small compared to the sample size.
-- Picking farthest
+- Picking farthest  
   Outliers problem → Applied to a sample of the points
 - K-means++
+
+由于 K-均值聚类的结果依赖于初始点的选取，简单的随机选取经常会产生不佳的聚类结果，在实际应用 K-均值聚类时一般会使用多次随机选取或 K-means++ 算法。使用系统聚类的结果虽然也能取得较好的 K-均值聚类结果，但性能较低，不适合用于较大的数据集。
 
 ### Proximity Measures
 - Euclidean distance ( $L_2$ distance)

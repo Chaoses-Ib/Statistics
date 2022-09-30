@@ -1,5 +1,5 @@
 # Hierarchical Clustering
-**Hierarchical clustering** refers to a collection of closely related clustering techniques that produce a hierarchical clustering by starting with each point as a singleton cluster and then repeatedly merging the two closest clusters until a single, allencompassing cluster remains.
+**Hierarchical clustering** refers to a collection of closely related clustering techniques that produce a hierarchical clustering by starting with each point as a singleton cluster and then repeatedly merging the two closest clusters until a single, all encompassing cluster remains. 将簇作为聚类的对象是层次聚类法的基本原理。
 
 Some of these techniques have a natural interpretation in terms of graph-based clustering, while others have an interpretation in terms of a prototype-based approach.
 
