@@ -15,7 +15,7 @@
   - [Expectation-Maximization Clustering](Multivariate/Clustering/Representative-based/Expectation-Maximization%20Clustering.md)
 - Density-based Clustering
   - [DBSCAN](Multivariate/Clustering/Density-based/DBSCAN.md)
-- Hierarchical Clustering
+- [Hierarchical Clustering](Multivariate/Clustering/Hierarchical/README.md)
   - [Agglomerative Hierarchical Clustering](Multivariate/Clustering/Hierarchical/Agglomerative%20Hierarchical%20Clustering.md)
 - Fuzzy Clustering
   - [Fuzzy C-means Clustering](Multivariate/Clustering/Fuzzy/Fuzzy%20C-means%20Clustering.md)
