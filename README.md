@@ -9,6 +9,11 @@
 - [Random Vectors and Matrices](Multivariate/Random%20Vectors%20and%20Matrices.md)
 - [Multivariate Normal Distribution](Multivariate/Multivariate%20Normal%20Distribution.md)
 
+### Dimensionality Reduction
+- [Principal Component Analysis](Multivariate/Dimensionality%20Reduction/Principal%20Component%20Analysis.md)
+- [Manifold Learning](Multivariate/Dimensionality%20Reduction/Manifold%20Learning/README.md)
+  - [Multidimensional Scaling](Multivariate/Dimensionality%20Reduction/Manifold%20Learning/Multidimensional%20Scaling.md)
+
 ### [Clustering](Multivariate/Clustering/README.md)
 - Representative-based Clustering
   - [K-means Clustering](Multivariate/Clustering/Representative-based/K-means.md)
