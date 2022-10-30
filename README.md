@@ -28,3 +28,7 @@
   - [External Measures](Multivariate/Clustering/Validation/External%20Measures.md)
   - [Internal Measures](Multivariate/Clustering/Validation/Internal%20Measures.md)
   - [Relative Measures](Multivariate/Clustering/Validation/Relative%20Measures.md)
+
+### Structured Prediction
+- Conditional Random Fields
+  - [使用线性条件随机场实现中文分词](Multivariate/Structured%20Prediction/CRF/使用线性条件随机场实现中文分词.md)
