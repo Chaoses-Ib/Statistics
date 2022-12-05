@@ -1,6 +1,9 @@
 # Statistics
 - [Libraries](Libraries.md)
 
+## [Probability Theory](Probability/README.md)
+- [Bayes' Theorem](Probability/Bayes'%20Theorem.md)
+
 ## Descriptive Statistics
 - Dispersion
   - [Variance](Descriptive/Dispersion/Variance.md)
