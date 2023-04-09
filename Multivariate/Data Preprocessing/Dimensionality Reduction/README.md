@@ -1,0 +1,2 @@
+# Demensionality Reduction
+The term **dimensionality reduction** is often reserved for those techniques that reduce the dimensionality of a data set by creating new attributes that are a combination of the old attributes.

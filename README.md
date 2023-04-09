@@ -13,10 +13,15 @@
 - [Random Vectors and Matrices](Multivariate/Random%20Vectors%20and%20Matrices.md)
 - [Multivariate Normal Distribution](Multivariate/Multivariate%20Normal%20Distribution.md)
 
-### Dimensionality Reduction
-- [Principal Component Analysis](Multivariate/Dimensionality%20Reduction/Principal%20Component%20Analysis.md)
-- [Manifold Learning](Multivariate/Dimensionality%20Reduction/Manifold%20Learning/README.md)
-  - [Multidimensional Scaling](Multivariate/Dimensionality%20Reduction/Manifold%20Learning/Multidimensional%20Scaling.md)
+### [Data Preprocessing](Multivariate/Data%20Preprocessing/README.md)
+- [Dimensionality Reduction](Multivariate/Data%20Preprocessing/Dimensionality%20Reduction/README.md)
+  - [Principal Component Analysis](Multivariate/Data%20Preprocessing/Dimensionality%20Reduction/Principal%20Component%20Analysis.md)
+  - [UV-Decomposition](Multivariate/Data%20Preprocessing/Dimensionality%20Reduction/UV-Decomposition.md)
+  - [Manifold Learning](Multivariate/Data%20Preprocessing/Dimensionality%20Reduction/Manifold%20Learning/README.md)
+    - [Multidimensional Scaling](Multivariate/Data%20Preprocessing/Dimensionality%20Reduction/Manifold%20Learning/Multidimensional%20Scaling.md)
+- [Feature Engineering](Multivariate/Data%20Preprocessing/Feature%20Engineering/README.md)
+  - [Polynomial Feature Transform](Multivariate/Data%20Preprocessing/Feature%20Engineering/Polynomial%20Feature%20Transform.md)
+  - [Featuretools](Multivariate/Data%20Preprocessing/Feature%20Engineering/Featuretools.md)
 
 ### [Clustering](Multivariate/Clustering/README.md)
 - Representative-based Clustering
