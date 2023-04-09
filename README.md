@@ -53,6 +53,14 @@
   - [Internal Measures](Multivariate/Clustering/Validation/Internal%20Measures.md)
   - [Relative Measures](Multivariate/Clustering/Validation/Relative%20Measures.md)
 
+### Association Analysis
+- [Itemset and Association Rule](Multivariate/Association%20Analysis/Itemset%20and%20Association%20Rule.md)
+- [Itemset Mining](Multivariate/Association%20Analysis/Itemset%20Mining.md)
+- [Association Rule Mining](Multivariate/Association%20Analysis/Association%20Rule%20Mining.md)
+- [Compact Representation of Itemsets](Multivariate/Association%20Analysis/Compact%20Representation%20of%20Itemsets.md)
+- Assessment
+  - [Objective Measures of Interestingness](Multivariate/Association%20Analysis/Assessment/Objective%20Measures%20of%20Interestingness.md)
+
 ### Structured Prediction
 - Conditional Random Fields
   - [使用线性条件随机场实现中文分词](Multivariate/Structured%20Prediction/CRF/使用线性条件随机场实现中文分词.md)
