@@ -25,18 +25,15 @@
   - [Polynomial Feature Transform](Multivariate/Data%20Preprocessing/Feature%20Engineering/Polynomial%20Feature%20Transform.md)
   - [Featuretools](Multivariate/Data%20Preprocessing/Feature%20Engineering/Featuretools.md)
 
-### [Classification](Multivariate/Classification/README.md)
-- [Classification Assessment](Multivariate/Classification/Classification%20Assessment/README.md)
-  - [Performance Measures](Multivariate/Classification/Classification%20Assessment/Performance%20Measures.md)
-    - [Positive and Negative Predictive Values](Multivariate/Classification/Classification%20Assessment/Positive%20and%20Negative%20Predictive%20Values.md)
-  - [Model Evaluation](Multivariate/Classification/Classification%20Assessment/Model%20Evaluation.md)
-    - [Model Overfitting](Multivariate/Classification/Classification%20Assessment/Model%20Overfitting.md)
-  - [Receiver Operating Characteristic Analysis](Multivariate/Classification/Classification%20Assessment/Receiver%20Operating%20Characteristic%20Analysis.md)
-- Probabilistic Classification
-  - [Bayes Classifier](Multivariate/Classification/Probabilistic/Bayes%20Classifier.md)
-- [Decision Tree Classifier](Multivariate/Classification/Decision%20Tree%20Classifier/README.md)
-  - [Random Forest](Multivariate/Classification/Decision%20Tree%20Classifier/Random%20Forest.md)
-- [Support Vector Machine](Multivariate/Classification/Support%20Vector%20Machine/README.md)
+### Finding Similar Items
+- [Measures of Similarity and Dissimilarity](Multivariate/Finding%20Similar%20Items/Measures%20of%20Similarity%20and%20Dissimilarity.md)
+  - [Binary Similarity Measures](Multivariate/Finding%20Similar%20Items/Binary%20Similarity%20Measures.md)
+  - [Edit Distance](Multivariate/Finding%20Similar%20Items/Edit%20Distance/README.md)
+    - [Levenshtein Distance](Multivariate/Finding%20Similar%20Items/Edit%20Distance/Levenshtein%20Distance.md)
+- [Near-Neighbor Search](Multivariate/Finding%20Similar%20Items/Near-Neighbor%20Search.md)
+- [Shingling of Documents](Multivariate/Finding%20Similar%20Items/Shingling%20of%20Documents.md)
+- [Similarity-Preserving Summaries of Sets](Multivariate/Finding%20Similar%20Items/Similarity-Preserving%20Summaries%20of%20Sets.md)
+- [Locality-Sensitive Hashing for Documents](Multivariate/Finding%20Similar%20Items/Locality-Sensitive%20Hashing%20for%20Documents.md)
 
 ### [Clustering](Multivariate/Clustering/README.md)
 - Representative-based Clustering
@@ -52,6 +49,19 @@
   - [External Measures](Multivariate/Clustering/Validation/External%20Measures.md)
   - [Internal Measures](Multivariate/Clustering/Validation/Internal%20Measures.md)
   - [Relative Measures](Multivariate/Clustering/Validation/Relative%20Measures.md)
+
+### [Classification](Multivariate/Classification/README.md)
+- [Classification Assessment](Multivariate/Classification/Classification%20Assessment/README.md)
+  - [Performance Measures](Multivariate/Classification/Classification%20Assessment/Performance%20Measures.md)
+    - [Positive and Negative Predictive Values](Multivariate/Classification/Classification%20Assessment/Positive%20and%20Negative%20Predictive%20Values.md)
+  - [Model Evaluation](Multivariate/Classification/Classification%20Assessment/Model%20Evaluation.md)
+    - [Model Overfitting](Multivariate/Classification/Classification%20Assessment/Model%20Overfitting.md)
+  - [Receiver Operating Characteristic Analysis](Multivariate/Classification/Classification%20Assessment/Receiver%20Operating%20Characteristic%20Analysis.md)
+- Probabilistic Classification
+  - [Bayes Classifier](Multivariate/Classification/Probabilistic/Bayes%20Classifier.md)
+- [Decision Tree Classifier](Multivariate/Classification/Decision%20Tree%20Classifier/README.md)
+  - [Random Forest](Multivariate/Classification/Decision%20Tree%20Classifier/Random%20Forest.md)
+- [Support Vector Machine](Multivariate/Classification/Support%20Vector%20Machine/README.md)
 
 ### Association Analysis
 - [Itemset and Association Rule](Multivariate/Association%20Analysis/Itemset%20and%20Association%20Rule.md)
