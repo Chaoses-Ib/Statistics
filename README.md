@@ -14,6 +14,8 @@
 - [Multivariate Normal Distribution](Multivariate/Multivariate%20Normal%20Distribution.md)
 
 ### [Data Preprocessing](Multivariate/Data%20Preprocessing/README.md)
+- [Data Quality](Multivariate/Data%20Preprocessing/Data%20Quality/README.md)
+  - [Missing Values](Multivariate/Data%20Preprocessing/Data%20Quality/Missing%20Values.md)
 - [Dimensionality Reduction](Multivariate/Data%20Preprocessing/Dimensionality%20Reduction/README.md)
   - [Principal Component Analysis](Multivariate/Data%20Preprocessing/Dimensionality%20Reduction/Principal%20Component%20Analysis.md)
   - [UV-Decomposition](Multivariate/Data%20Preprocessing/Dimensionality%20Reduction/UV-Decomposition.md)
