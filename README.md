@@ -63,6 +63,13 @@
   - [Random Forest](Multivariate/Classification/Decision%20Tree%20Classifier/Random%20Forest.md)
 - [Support Vector Machine](Multivariate/Classification/Support%20Vector%20Machine/README.md)
 
+### [Link Analysis](Multivariate/Link%20Analysis/README.md)
+- [Web Graph](Multivariate/Link%20Analysis/Web%20Graph.md)
+- [PageRank](Multivariate/Link%20Analysis/PageRank/README.md)
+  - [Topic-Sensitive PageRank](Multivariate/Link%20Analysis/PageRank/Topic-Sensitive%20PageRank.md)
+  - [Link Spam](Multivariate/Link%20Analysis/PageRank/Link%20Spam.md)
+  - [Hubs and Authorities](Multivariate/Link%20Analysis/PageRank/Hubs%20and%20Authorities.md)
+
 ### Association Analysis
 - [Itemset and Association Rule](Multivariate/Association%20Analysis/Itemset%20and%20Association%20Rule.md)
 - [Itemset Mining](Multivariate/Association%20Analysis/Itemset%20Mining.md)
