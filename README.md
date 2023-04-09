@@ -3,6 +3,7 @@
 
 ## [Probability Theory](Probability/README.md)
 - [Bayes' Theorem](Probability/Bayes'%20Theorem.md)
+- [Conjugate Priors](Probability/Conjugate%20Priors.md)
 
 ## Descriptive Statistics
 - Dispersion
