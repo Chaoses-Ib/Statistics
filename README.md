@@ -25,6 +25,19 @@
   - [Polynomial Feature Transform](Multivariate/Data%20Preprocessing/Feature%20Engineering/Polynomial%20Feature%20Transform.md)
   - [Featuretools](Multivariate/Data%20Preprocessing/Feature%20Engineering/Featuretools.md)
 
+### [Classification](Multivariate/Classification/README.md)
+- [Classification Assessment](Multivariate/Classification/Classification%20Assessment/README.md)
+  - [Performance Measures](Multivariate/Classification/Classification%20Assessment/Performance%20Measures.md)
+    - [Positive and Negative Predictive Values](Multivariate/Classification/Classification%20Assessment/Positive%20and%20Negative%20Predictive%20Values.md)
+  - [Model Evaluation](Multivariate/Classification/Classification%20Assessment/Model%20Evaluation.md)
+    - [Model Overfitting](Multivariate/Classification/Classification%20Assessment/Model%20Overfitting.md)
+  - [Receiver Operating Characteristic Analysis](Multivariate/Classification/Classification%20Assessment/Receiver%20Operating%20Characteristic%20Analysis.md)
+- Probabilistic Classification
+  - [Bayes Classifier](Multivariate/Classification/Probabilistic/Bayes%20Classifier.md)
+- [Decision Tree Classifier](Multivariate/Classification/Decision%20Tree%20Classifier/README.md)
+  - [Random Forest](Multivariate/Classification/Decision%20Tree%20Classifier/Random%20Forest.md)
+- [Support Vector Machine](Multivariate/Classification/Support%20Vector%20Machine/README.md)
+
 ### [Clustering](Multivariate/Clustering/README.md)
 - Representative-based Clustering
   - [K-means Clustering](Multivariate/Clustering/Representative-based/K-means.md)
