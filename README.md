@@ -78,6 +78,13 @@
 - Assessment
   - [Objective Measures of Interestingness](Multivariate/Association%20Analysis/Assessment/Objective%20Measures%20of%20Interestingness.md)
 
+### [Recommendation Systems](Multivariate/Recommendation%20Systems/README.md)
+- [Content-Based Recommendations](Multivariate/Recommendation%20Systems/Content-Based%20Recommendations/README.md)
+- [Collaborative Filtering](Multivariate/Recommendation%20Systems/Collaborative%20Filtering/README.md)
+  - [Clustering Users and Items](Multivariate/Recommendation%20Systems/Collaborative%20Filtering/Clustering%20Users%20and%20Items.md)
+- [Resource](Multivariate/Recommendation%20Systems/Resource.md)
+- [Services](Multivariate/Recommendation%20Systems/Services.md)
+
 ### Structured Prediction
 - Conditional Random Fields
   - [使用线性条件随机场实现中文分词](Multivariate/Structured%20Prediction/CRF/使用线性条件随机场实现中文分词.md)
