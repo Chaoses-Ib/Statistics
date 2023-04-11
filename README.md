@@ -9,6 +9,11 @@
 - Dispersion
   - [Variance](Descriptive/Dispersion/Variance.md)
 
+## [Statistical Inference](Inference/README.md)
+- [Graphical Models](Inference/Graphical/README.md)
+  - Conditional Random Fields
+    - [使用线性条件随机场实现中文分词](Inference/Graphical/CRF/使用线性条件随机场实现中文分词.md)
+
 ## [Multivariate Statistics](Multivariate/README.md)
 - [Random Vectors and Matrices](Multivariate/Random%20Vectors%20and%20Matrices.md)
 - [Multivariate Normal Distribution](Multivariate/Multivariate%20Normal%20Distribution.md)
@@ -84,7 +89,3 @@
   - [Clustering Users and Items](Multivariate/Recommendation%20Systems/Collaborative%20Filtering/Clustering%20Users%20and%20Items.md)
 - [Resource](Multivariate/Recommendation%20Systems/Resource.md)
 - [Services](Multivariate/Recommendation%20Systems/Services.md)
-
-### Structured Prediction
-- Conditional Random Fields
-  - [使用线性条件随机场实现中文分词](Multivariate/Structured%20Prediction/CRF/使用线性条件随机场实现中文分词.md)
