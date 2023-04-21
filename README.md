@@ -68,6 +68,11 @@
   - [Random Forest](Multivariate/Classification/Decision%20Tree%20Classifier/Random%20Forest.md)
 - [Support Vector Machine](Multivariate/Classification/Support%20Vector%20Machine/README.md)
 
+### [Regression Analysis](Multivariate/Regression/README.md)
+- Linear Regression
+- [Logistic Regression](Multivariate/Regression/Logistic/README.md)
+  - [Multinomial Logistic Regression](Multivariate/Regression/Logistic/Multinomial.md) ([Python](Multivariate/Regression/Logistic/Multinomial.ipynb))
+
 ### [Link Analysis](Multivariate/Link%20Analysis/README.md)
 - [Web Graph](Multivariate/Link%20Analysis/Web%20Graph.md)
 - [PageRank](Multivariate/Link%20Analysis/PageRank/README.md)
