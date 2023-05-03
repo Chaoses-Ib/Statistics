@@ -14,9 +14,11 @@
 - [Bayesian Inference](Inference/Bayesian/README.md)
   - [Conjugate Priors](Inference/Bayesian/Conjugate%20Priors.md)
   - [Maximum A Posteriori Estimation](Inference/Bayesian/Maximum%20A%20Posteriori%20Estimation.md)
-- [Graphical Models](Inference/Graphical/README.md)
-  - Conditional Random Fields
-    - [使用线性条件随机场实现中文分词](Inference/Graphical/CRF/使用线性条件随机场实现中文分词.md)
+- [Probabilistic Graphical Models](Inference/Graphical/README.md)
+  - [Directed Probabilistic Graphical Models](Inference/Graphical/Directed/README.md)
+  - [Undirected Probabilistic Graphical Models](Inference/Graphical/Undirected/README.md)
+    - [Conditional Random Fields](Inference/Graphical/Undirected/Conditional/README.md)
+      - [使用线性条件随机场实现中文分词](Inference/Graphical/Undirected/Conditional/使用线性条件随机场实现中文分词.md)
 
 ## [Multivariate Statistics](Multivariate/README.md)
 - [Random Vectors and Matrices](Multivariate/Random%20Vectors%20and%20Matrices.md)
