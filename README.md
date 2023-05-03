@@ -9,6 +9,8 @@
   - [Variance](Descriptive/Dispersion/Variance.md)
 
 ## [Statistical Inference](Inference/README.md)
+- [Probability Density Estimation](Inference/Probability%20Density/README.md)
+  - [Kernel Density Estimation](Inference/Probability%20Density/Kernel%20Density%20Estimation.md)
 - [Bayesian Inference](Inference/Bayesian/README.md)
   - [Conjugate Priors](Inference/Bayesian/Conjugate%20Priors.md)
   - [Maximum A Posteriori Estimation](Inference/Bayesian/Maximum%20A%20Posteriori%20Estimation.md)
