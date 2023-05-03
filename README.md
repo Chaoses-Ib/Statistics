@@ -1,15 +1,17 @@
-# Statistics
+# [Statistics](Statistics.md)
 - [Libraries](Libraries.md)
 
 ## [Probability Theory](Probability/README.md)
 - [Bayes' Theorem](Probability/Bayes'%20Theorem.md)
-- [Conjugate Priors](Probability/Conjugate%20Priors.md)
 
 ## Descriptive Statistics
 - Dispersion
   - [Variance](Descriptive/Dispersion/Variance.md)
 
 ## [Statistical Inference](Inference/README.md)
+- [Bayesian Inference](Inference/Bayesian/README.md)
+  - [Conjugate Priors](Inference/Bayesian/Conjugate%20Priors.md)
+  - [Maximum A Posteriori Estimation](Inference/Bayesian/Maximum%20A%20Posteriori%20Estimation.md)
 - [Graphical Models](Inference/Graphical/README.md)
   - Conditional Random Fields
     - [使用线性条件随机场实现中文分词](Inference/Graphical/CRF/使用线性条件随机场实现中文分词.md)

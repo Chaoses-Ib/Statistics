@@ -5,6 +5,7 @@ If the posterior probability distribution $p(\theta \mid x)$ is in the same prob
 
 [List of conjugate distributions](https://en.wikipedia.org/wiki/Conjugate_prior#Table_of_conjugate_distributions)
 
+
 [^wiki-prior]: [Prior probability - Wikipedia](https://en.wikipedia.org/wiki/Prior_probability)
 [^wiki-posterior]: [Posterior probability - Wikipedia](https://en.wikipedia.org/wiki/Posterior_probability)
 [^wiki]: [Conjugate prior - Wikipedia](https://en.wikipedia.org/wiki/Conjugate_prior)
