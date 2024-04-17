@@ -19,6 +19,12 @@ Error rate is an estimate of the probability of misclassification. It is defined
 
 $$Error\ rate=\frac{1}{n} \sum_{i=1}^{n} I(y_i\ne \hat{y_i})$$
 
+### Top-n accuracy
+[classification - ImageNet: what is top-1 and top-5 error rate? - Cross Validated](https://stats.stackexchange.com/questions/156471/imagenet-what-is-top-1-and-top-5-error-rate)
+> In the case of the top-1 score, you check if the top class (the one with the highest probability) is the same as the target label.
+> 
+> In the case of the top-5 score, you check if the target label is one of your top 5 predictions (the 5 ones with the highest probabilities).
+
 ## Contingency table-based measures
 Let $D=\{D_1,D_2,...,D_k\}$ donote a partitioning of the testing points based on their true class labels, where
 
