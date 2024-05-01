@@ -38,7 +38,7 @@
   - [Polynomial Feature Transform](Multivariate/Data%20Preprocessing/Feature%20Engineering/Polynomial%20Feature%20Transform.md)
   - [Featuretools](Multivariate/Data%20Preprocessing/Feature%20Engineering/Featuretools.md)
 
-### Finding Similar Items
+### [Finding Similar Items](Multivariate/Finding%20Similar%20Items/README.md)
 - [Measures of Similarity and Dissimilarity](Multivariate/Finding%20Similar%20Items/Measures%20of%20Similarity%20and%20Dissimilarity.md)
   - [Binary Similarity Measures](Multivariate/Finding%20Similar%20Items/Binary%20Similarity%20Measures.md)
   - [Edit Distance](Multivariate/Finding%20Similar%20Items/Edit%20Distance/README.md)
