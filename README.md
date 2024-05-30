@@ -9,6 +9,8 @@
   - [Variance](Descriptive/Dispersion/Variance.md)
 
 ## [Statistical Inference](Inference/README.md)
+- [Statistical Distances](Inference/Distances/README.md)
+  - [Cross-entropy](Inference/Distances/Cross-entropy.md)
 - [Probability Density Estimation](Inference/Probability%20Density/README.md)
   - [Kernel Density Estimation](Inference/Probability%20Density/Kernel%20Density%20Estimation.md)
 - [Bayesian Inference](Inference/Bayesian/README.md)
