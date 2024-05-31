@@ -79,6 +79,7 @@
 ### [Regression Analysis](Multivariate/Regression/README.md)
 - Linear Regression
 - [Logistic Regression](Multivariate/Regression/Logistic/README.md)
+  - [Softmax Function](Multivariate/Regression/Logistic/Softmax.md)
   - [Multinomial Logistic Regression](Multivariate/Regression/Logistic/Multinomial.md) ([Python](Multivariate/Regression/Logistic/Multinomial.ipynb))
 
 ### [Link Analysis](Multivariate/Link%20Analysis/README.md)

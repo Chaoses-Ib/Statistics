@@ -18,6 +18,8 @@ where the true probability $p_i$ is the true label, and the given distribution $
   - `input` is always normalized with softmax.
   - `target`'s value can be in $[0,1]$ or $[0,C)$. In the latter case, `weight` can be used to specify the probability for each class.
 
+    [Cross Entropy Calculation in PyTorch tutorial - Stack Overflow](https://stackoverflow.com/questions/62161194/cross-entropy-calculation-in-pytorch-tutorial)
+
   [Cross-Entropy, Negative Log-Likelihood, and All That Jazz | by Remy Lau | Towards Data Science](https://towardsdatascience.com/cross-entropy-negative-log-likelihood-and-all-that-jazz-47a95bd2e81)
   - [NLLLoss](https://pytorch.org/docs/stable/generated/torch.nn.NLLLoss.html#torch.nn.NLLLoss) (negative log likelihood loss) does not apply `log` to `input`.
 
