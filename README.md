@@ -3,6 +3,8 @@
 
 ## Data
 - [pandas](Data/pandas/README.md)
+- [Polars](Data/Polars/README.md)
+  - [Polars Cloud](Data/Polars/Cloud.md)
 
 ## [Probability Theory](Probability/README.md)
 - [Bayes' Theorem](Probability/Bayes'%20Theorem.md)

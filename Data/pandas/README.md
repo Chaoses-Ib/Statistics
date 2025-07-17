@@ -1,4 +1,6 @@
 # pandas
+[Wikipedia](https://en.wikipedia.org/wiki/Pandas_(software))
+
 [pandas - Python Data Analysis Library](https://pandas.pydata.org/)  
 pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool.  
 [pandas-dev/pandas](https://github.com/pandas-dev/pandas)
